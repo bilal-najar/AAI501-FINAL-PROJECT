@@ -1,13 +1,13 @@
 # AAI501-FINAL-PROJECT
 This project is a part of the AAI-501 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).
 
-**-- Project Status: Completed**
+**-- Project Status: In-Progress**
 
 ## Installation
 To use this project, first clone the repo on your device using the command below:
 ```
 git init
-git clone https://github.com/dominicfanucchi/aai-500_group2.git
+git clone https://github.com/bilal-najar/AAI501-FINAL-PROJECT.git
 ```
 
 ## Project Intro/Objective
